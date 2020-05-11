@@ -1,0 +1,1199 @@
+[2020-05-12 00:31:08,449] INFO::(P:29691 T:140651032557376)::email_crawler - ----------------------------------------
+[2020-05-12 00:31:08,449] INFO::(P:29691 T:140651032557376)::email_crawler - Keywords to Google for: iphone developers
+[2020-05-12 00:31:08,449] INFO::(P:29691 T:140651032557376)::email_crawler - ----------------------------------------
+[2020-05-12 00:31:08,450] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=0
+[2020-05-12 00:31:09,280] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=10
+[2020-05-12 00:31:09,800] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=20
+[2020-05-12 00:31:10,323] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=30
+[2020-05-12 00:31:11,113] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=40
+[2020-05-12 00:31:11,689] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=50
+[2020-05-12 00:31:12,240] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=60
+[2020-05-12 00:31:12,805] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=70
+[2020-05-12 00:31:13,382] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=80
+[2020-05-12 00:31:13,993] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=90
+[2020-05-12 00:31:14,662] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=100
+[2020-05-12 00:31:15,332] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=110
+[2020-05-12 00:31:16,230] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=120
+[2020-05-12 00:31:16,893] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=130
+[2020-05-12 00:31:17,557] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.google.com/search?q=iphone+developers&start=140
+[2020-05-12 00:31:18,253] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://inifixme.com/tag/logo-apple/
+[2020-05-12 00:31:22,366] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://id.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:31:22,931] INFO::(P:29691 T:140651032557376)::email_crawler - No email at level 1.. proceeding to crawl level 2
+[2020-05-12 00:31:22,946] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:23,492] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:23,493] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/IWork
+[2020-05-12 00:31:24,772] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:25,401] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:25,402] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sydney_Morning_Herald
+[2020-05-12 00:31:26,380] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Nike,_Inc.
+[2020-05-12 00:31:26,588] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_semikonduktor_besar
+[2020-05-12 00:31:27,560] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference
+[2020-05-12 00:31:29,180] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Razer_Inc.
+[2020-05-12 00:31:30,225] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:31,028] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:31,028] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.apple.com/ipad/
+[2020-05-12 00:31:31,226] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://news.bbc.co.uk/2/hi/technology/3797261.stm
+[2020-05-12 00:31:32,468] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:33,098] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:33,099] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:33,930] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:33,930] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://sv.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:31:34,210] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_VIAF
+[2020-05-12 00:31:35,615] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20080616163344/http://www.wired.com/gadgets/mac/commentary/cultofmac/2006/06/71138
+[2020-05-12 00:31:49,089] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:49,687] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:49,687] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/IBook
+[2020-05-12 00:31:50,513] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mike_Markkula
+[2020-05-12 00:31:51,976] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Dolar_Amerika_Serikat
+[2020-05-12 00:31:52,246] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:City_of_Madrid_(18045362985).jpg
+[2020-05-12 00:31:53,351] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mozilla_Corporation
+[2020-05-12 00:31:53,577] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Ronald_Wayne
+[2020-05-12 00:31:54,431] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_perangkat_lunak_besar
+[2020-05-12 00:31:54,987] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+[2020-05-12 00:31:55,774] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:31:55,775] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Xilinx
+[2020-05-12 00:31:55,993] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:CS1_sumber_berbahasa_Inggris_(en)
+[2020-05-12 00:31:57,387] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://en.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:31:58,194] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://ca.wikipedia.org/wiki/Apple_Inc
+[2020-05-12 00:31:59,624] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:00,192] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:00,192] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:01,064] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:01,065] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.macrumors.com/2016/09/20/macos-server-updated-for-sierra/
+[2020-05-12 00:32:02,052] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_BNF
+[2020-05-12 00:32:02,605] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Istimewa:Pranala_balik/Apple_Inc.
+[2020-05-12 00:32:03,649] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Badai_Harvey
+[2020-05-12 00:32:04,503] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://finance.yahoo.com/q?s=AAPL
+[2020-05-12 00:32:05,662] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Anak_perusahaan
+[2020-05-12 00:32:05,868] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sir_Isaac_Newton
+[2020-05-12 00:32:07,106] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Goldman_Sachs
+[2020-05-12 00:32:07,309] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Barcelona
+[2020-05-12 00:32:07,608] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://venturebeat.com/2018/02/01/idc-smartphone-shipments-down-6-3-in-q4-2017-apple-overtakes-samsung-for-top-spot/
+[2020-05-12 00:32:09,713] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:10,316] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:10,316] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%B4%E0%B6%BD%E0%B7%8A_%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B6%BB%E0%B7%9A%E0%B7%82%E0%B6%B1%E0%B7%8A
+[2020-05-12 00:32:11,547] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://da.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:32:12,196] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/CBS
+[2020-05-12 00:32:12,477] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:13,384] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:13,385] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/ILife
+[2020-05-12 00:32:14,440] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.mobilecrunch.com/2010/02/20/over-5000-apps-stricken-from-the-apple-app-store-new-rules-in-place/
+[2020-05-12 00:32:17,913] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://bgr.com/2017/05/22/iphone-vs-android-switchers-ad-campaign/
+[2020-05-12 00:32:19,526] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://foundation.wikimedia.org/wiki/Privacy_policy
+[2020-05-12 00:32:19,749] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wikipedia:Pancapilar
+[2020-05-12 00:32:19,984] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/United_Continental_Holdings
+[2020-05-12 00:32:20,175] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.bloomberg.com/news/articles/2016-09-16/the-apple-store-line-is-dying-as-iphone-fans-order-more-online
+[2020-05-12 00:32:23,079] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://gadgets.ndtv.com/mobiles/news/apple-ceo-tim-cook-i-love-india-but-247307
+[2020-05-12 00:32:23,548] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.theverge.com/2017/11/29/16715246/apple-releases-high-sierra-root-security-patch
+[2020-05-12 00:32:25,773] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Perusahaan_Dow_Jones_Industrial_Average&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:26,583] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Perusahaan_Dow_Jones_Industrial_Average&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:26,583] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Reputation.com&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:27,441] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Reputation.com&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:27,441] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Tecno_Mobile&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:27,991] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Tecno_Mobile&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:27,992] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.statista.com/topics/870/iphone/
+[2020-05-12 00:32:28,486] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:29,313] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:29,313] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Industri_elektronik_di_Amerika_Serikat&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:29,911] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Industri_elektronik_di_Amerika_Serikat&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:29,911] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;veaction=edit
+[2020-05-12 00:32:31,934] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://musicbrainz.org/artist/9b502a85-104b-4489-beff-ecedca81741c
+[2020-05-12 00:32:34,968] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:All_pages_needing_factual_verification&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:35,666] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.theverge.com/2017/9/12/16288806/apple-iphone-x-price-release-date-features-announced
+[2020-05-12 00:32:36,795] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wina
+[2020-05-12 00:32:37,505] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.irishtimes.com/business/economy/apple-s-irish-company-structure-key-to-eu-tax-finding-1.2775684
+[2020-05-12 00:32:38,715] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Singgahan_(komputasi)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:39,267] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Singgahan_(komputasi)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:39,267] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=MacBook_(Retina)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:40,033] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=MacBook_(Retina)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:40,033] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/720p
+[2020-05-12 00:32:40,219] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_Air_2&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:41,059] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_Air_2&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:41,059] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Seleb_Apple
+[2020-05-12 00:32:42,065] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://fo.wikipedia.org/wiki/Apple
+[2020-05-12 00:32:43,090] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.climatecounts.org/scorecard_score.php?co=7
+[2020-05-12 00:32:46,551] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Google_Pixel&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:47,156] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Google_Pixel&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:47,156] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://9to5mac.com/2017/02/17/ipad-pro-pc-ads/
+[2020-05-12 00:32:48,153] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=NBCUniversal_News_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:48,731] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=NBCUniversal_News_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:48,732] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Ron_Johnson_(pebisnis)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:49,371] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Ron_Johnson_(pebisnis)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:49,372] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Penawaran_umum_perdana_tahun_1980-an&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:50,034] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Steven_Levy&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:50,694] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Steven_Levy&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:50,694] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Wiko&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:51,327] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Wiko&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:51,327] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.macrumors.com/2018/02/01/apple-now-has-1-3-billion-active-devices-worldwide/
+[2020-05-12 00:32:52,251] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=The_Register&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:52,893] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=The_Register&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:52,894] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_SUDOC
+[2020-05-12 00:32:54,242] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/IPhone_6S
+[2020-05-12 00:32:54,498] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Tingkat_pajak&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:55,027] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Tingkat_pajak&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:55,027] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Actuate_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:55,838] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Actuate_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:32:55,839] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Herzliya
+[2020-05-12 00:32:56,702] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Perusahaan_teknologi_yang_berpusat_di_Wilayah_Teluk_San_Francisco&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:57,277] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:Apple_store_fifth_avenue.jpg
+[2020-05-12 00:32:58,181] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.youtube.com/watch?v=CW0DUg63lqU&amp;hd=1
+[2020-05-12 00:32:58,409] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Artikel_yang_mengandung_pernyataan_berpotensi_usang_sejak_Juli_2018&amp;action=edit&amp;redlink=1
+[2020-05-12 00:32:59,349] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.cultofmac.com/194455/apple-posts-steve-jobs-tribute-his-spirit-will-forever-be-the-foundation-of-apple/
+[2020-05-12 00:33:02,439] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/HomePod
+[2020-05-12 00:33:02,920] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/PCI_Express
+[2020-05-12 00:33:03,109] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20101104233204/http://www.wired.com/gadgetlab/2010/11/foxconn-photo-gallery/?pid=731&amp;viewall=true
+[2020-05-12 00:33:10,424] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Hak_pekerja
+[2020-05-12 00:33:11,058] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/IPad_2
+[2020-05-12 00:33:11,277] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Halaman_dengan_kesalahan_referensi
+[2020-05-12 00:33:13,355] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Produksi_nirpabrik&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:13,985] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Produksi_nirpabrik&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:13,986] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://finance.yahoo.com/quote/AAPL/holders?p=AAPL
+[2020-05-12 00:33:15,238] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://ga.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:33:15,999] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20100130142222/http://www.macrumors.com/2010/01/27/apple-tablet-media-event-today-come-see-our-latest-creation/
+[2020-05-12 00:33:23,429] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;veaction=edit&amp;section=25
+[2020-05-12 00:33:24,794] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mac_OS_X
+[2020-05-12 00:33:25,082] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France
+[2020-05-12 00:33:26,339] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Liberty_Global&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:26,950] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Liberty_Global&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:26,950] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20080725082132/http://www.apple.com/hotnews/agreenerapple/
+[2020-05-12 00:33:30,211] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Layar_LCD_bercahaya_latar_LED&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:31,094] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Layar_LCD_bercahaya_latar_LED&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:31,094] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://nla.gov.au/anbd.aut-an36551832
+[2020-05-12 00:33:33,425] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%AA%E0%B2%B2%E0%B3%8D
+[2020-05-12 00:33:34,539] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://vi.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:33:34,845] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Adobe_Systems
+[2020-05-12 00:33:35,176] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Palo_Alto_Networks&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:35,798] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Palo_Alto_Networks&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:35,799] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fortune_500
+[2020-05-12 00:33:36,000] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Telepon_genggam#Produsen
+[2020-05-12 00:33:36,247] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:37,020] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:37,021] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Oath_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:37,630] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Oath_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:37,631] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Media_pemutaran_mengalir&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:38,177] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Media_pemutaran_mengalir&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:38,178] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=HGST&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:39,063] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=HGST&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:39,063] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://9to5mac.com/2017/05/17/iphone-made-in-india-2/
+[2020-05-12 00:33:40,029] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://tech.fortune.cnn.com/2012/10/29/inside-apples-major-shakeup/
+[2020-05-12 00:33:40,240] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://tech.fortune.cnn.com/2012/10/29/inside-apples-major-shakeup/
+HTTP Error 502: Bad Gateway
+[2020-05-12 00:33:40,240] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Signetics&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:40,845] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Signetics&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:40,846] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/USA_Today
+[2020-05-12 00:33:41,417] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.apple.com/newsroom/2001/05/15Apple-to-Open-25-Retail-Stores-in-2001/
+[2020-05-12 00:33:42,057] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://id.wikivoyage.org/wiki/Special:Search/Cupertino
+[2020-05-12 00:33:44,319] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.apple.com/pr/library/2009/04/24appstore.html
+[2020-05-12 00:33:45,578] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Robin_Williams
+[2020-05-12 00:33:45,809] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://appleinsider.com/articles/15/12/14/apple-buys-former-maxim-chip-fab-in-north-san-jose-neighboring-samsung-semiconductor-
+[2020-05-12 00:33:47,986] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Greenpeace
+[2020-05-12 00:33:48,217] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.macrumors.com/2015/09/24/iphone-6s-apple-store-lineups/
+[2020-05-12 00:33:49,120] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Nelson_Mandela
+[2020-05-12 00:33:49,569] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/PDF
+[2020-05-12 00:33:49,789] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/PDB
+[2020-05-12 00:33:50,030] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/United_Technologies
+[2020-05-12 00:33:51,475] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Moskwa
+[2020-05-12 00:33:51,977] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Maps_(aplikasi)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:52,521] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Maps_(aplikasi)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:52,521] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Dan_Riccio&amp;action=edit&amp;redlink=1
+[2020-05-12 00:33:53,059] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Dan_Riccio&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:33:53,060] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/TechCrunch
+[2020-05-12 00:33:53,740] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.docketalarm.com/cases/AllNaturesOfSuit/Apple%2C%20Inc./
+[2020-05-12 00:33:55,412] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20140304092046/http://www.wired.com/science/discoveries/news/2002/01/49652
+[2020-05-12 00:34:00,331] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://hr.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:34:01,591] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%AA%E0%A8%B2
+[2020-05-12 00:34:02,620] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/AppleTalk
+[2020-05-12 00:34:03,160] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Airport
+[2020-05-12 00:34:04,022] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://zh-min-nan.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:34:04,779] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/CNET
+[2020-05-12 00:34:05,610] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/MediaTek
+[2020-05-12 00:34:05,838] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fujitsu
+[2020-05-12 00:34:06,090] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://id.wikinews.org/wiki/Special:Search/Apple_Inc.
+[2020-05-12 00:34:08,788] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/The_Washington_Post
+[2020-05-12 00:34:09,260] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Pengelompokan_OpenCorporates
+[2020-05-12 00:34:09,891] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Yahoo!
+[2020-05-12 00:34:10,142] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/San_Jos%C3%A9,_California
+[2020-05-12 00:34:10,456] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=New_Town_Plaza&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:11,070] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=New_Town_Plaza&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:11,070] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-4)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:11,671] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-4)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:11,672] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wikipedia:Warung_Kopi
+[2020-05-12 00:34:11,934] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_MusicBrainz
+[2020-05-12 00:34:13,025] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kimball_International&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:13,607] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kimball_International&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:13,607] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/NEC
+[2020-05-12 00:34:15,234] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=LSI_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:15,813] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=LSI_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:15,814] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/STMicroelectronics
+[2020-05-12 00:34:16,066] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Commodore_International
+[2020-05-12 00:34:16,952] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://arstechnica.com/apple/2015/09/apples-new-ipad-2-pro-is-an-expansive-12-9-inches/
+[2020-05-12 00:34:19,860] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.greenpeace.org/international/en/campaigns/toxics/electronics/Guide-to-Greener-Electronics/which-companies-really-sell-gr/
+[2020-05-12 00:34:22,690] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://www.greenpeace.org/international/en/campaigns/toxics/electronics/Guide-to-Greener-Electronics/which-companies-really-sell-gr/
+HTTP Error 404: Not Found
+[2020-05-12 00:34:22,690] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Mark_Papermaster&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:23,288] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Mark_Papermaster&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:23,289] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://so.wikipedia.org/wiki/Apple_Inc
+[2020-05-12 00:34:24,357] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Alto
+[2020-05-12 00:34:24,537] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://google.brand.edgar-online.com/?sym=AAPL
+[2020-05-12 00:34:27,235] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Magnavox
+[2020-05-12 00:34:28,442] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=KEMET_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:29,102] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=KEMET_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:29,102] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Cirque_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:29,968] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Cirque_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:29,969] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/JD.com
+[2020-05-12 00:34:30,204] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.zdnet.com/blog/semantic-web/siri-acquired-by-apple-iphone-becomes-the-virtual-personal-assistant/371
+[2020-05-12 00:34:33,213] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: https://www.zdnet.com/blog/semantic-web/siri-acquired-by-apple-iphone-becomes-the-virtual-personal-assistant/371
+HTTP Error 404: Not Found
+[2020-05-12 00:34:33,213] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Pemegang_saham
+[2020-05-12 00:34:33,397] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://web.archive.org/web/20100201014134/https://www.pcworld.com/article/188149/atandt_beefing_up_network_for_ipad_and_iphone.html
+[2020-05-12 00:34:38,918] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Jony_Ive&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:39,759] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Jony_Ive&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:39,759] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://www.abc.net.au/news/stories/2010/10/26/3048024.htm
+[2020-05-12 00:34:41,341] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/ASML_Holding
+[2020-05-12 00:34:41,603] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BlackBerry_Mobile&amp;action=edit&amp;redlink=1
+[2020-05-12 00:34:42,508] ERROR::(P:29691 T:140651032557376)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BlackBerry_Mobile&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:34:42,509] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/Procter_%26_Gamble
+[2020-05-12 00:34:42,801] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/wiki/PC_Magazine
+[2020-05-12 00:34:42,998] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB_(%E4%BC%81%E6%A5%AD)
+[2020-05-12 00:34:43,644] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling https://www.apple.com/iwork/
+[2020-05-12 00:34:44,428] INFO::(P:29691 T:140651032557376)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Layanan_penyimpanan_berkas&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:08,189] INFO::(P:29774 T:140343819659072)::email_crawler - ========================================
+[2020-05-12 00:35:08,189] INFO::(P:29774 T:140343819659072)::email_crawler - Processing...
+[2020-05-12 00:35:08,191] INFO::(P:29774 T:140343819659072)::email_crawler - There are 40 emails
+[2020-05-12 00:35:08,192] INFO::(P:29774 T:140343819659072)::email_crawler - All emails saved to ./data/emails.csv
+[2020-05-12 00:35:08,192] INFO::(P:29774 T:140343819659072)::email_crawler - ========================================
+[2020-05-12 00:35:16,441] INFO::(P:29776 T:140164560942912)::email_crawler - ----------------------------------------
+[2020-05-12 00:35:16,441] INFO::(P:29776 T:140164560942912)::email_crawler - Keywords to Google for: --email
+[2020-05-12 00:35:16,441] INFO::(P:29776 T:140164560942912)::email_crawler - ----------------------------------------
+[2020-05-12 00:35:16,441] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=0
+[2020-05-12 00:35:17,081] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=10
+[2020-05-12 00:35:17,569] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=20
+[2020-05-12 00:35:18,045] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=30
+[2020-05-12 00:35:18,531] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=40
+[2020-05-12 00:35:19,222] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=50
+[2020-05-12 00:35:19,911] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=60
+[2020-05-12 00:35:20,473] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=70
+[2020-05-12 00:35:21,018] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=80
+[2020-05-12 00:35:21,749] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=90
+[2020-05-12 00:35:22,285] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=100
+[2020-05-12 00:35:22,769] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=110
+[2020-05-12 00:35:23,331] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=120
+[2020-05-12 00:35:23,874] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=130
+[2020-05-12 00:35:24,363] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.google.com/search?q=--email&start=140
+[2020-05-12 00:35:25,057] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://id.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:35:25,609] INFO::(P:29776 T:140164560942912)::email_crawler - No email at level 1.. proceeding to crawl level 2
+[2020-05-12 00:35:25,624] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:26,234] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:26,235] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/IWork
+[2020-05-12 00:35:26,425] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:26,972] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:26,973] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sydney_Morning_Herald
+[2020-05-12 00:35:27,162] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Nike,_Inc.
+[2020-05-12 00:35:27,373] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_semikonduktor_besar
+[2020-05-12 00:35:27,554] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference
+[2020-05-12 00:35:27,747] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Razer_Inc.
+[2020-05-12 00:35:27,953] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:28,574] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:28,575] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://www.apple.com/ipad/
+[2020-05-12 00:35:28,788] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://news.bbc.co.uk/2/hi/technology/3797261.stm
+[2020-05-12 00:35:29,770] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:30,377] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:30,377] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:31,155] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:31,155] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://sv.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:35:31,396] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_VIAF
+[2020-05-12 00:35:31,684] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://web.archive.org/web/20080616163344/http://www.wired.com/gadgets/mac/commentary/cultofmac/2006/06/71138
+[2020-05-12 00:35:33,907] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:34,807] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:34,808] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/IBook
+[2020-05-12 00:35:34,985] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mike_Markkula
+[2020-05-12 00:35:35,173] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Dolar_Amerika_Serikat
+[2020-05-12 00:35:35,442] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:City_of_Madrid_(18045362985).jpg
+[2020-05-12 00:35:35,631] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mozilla_Corporation
+[2020-05-12 00:35:35,863] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Ronald_Wayne
+[2020-05-12 00:35:36,061] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_perangkat_lunak_besar
+[2020-05-12 00:35:36,243] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:36,773] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:36,774] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Xilinx
+[2020-05-12 00:35:36,985] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:CS1_sumber_berbahasa_Inggris_(en)
+[2020-05-12 00:35:37,187] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://en.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:35:38,057] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://ca.wikipedia.org/wiki/Apple_Inc
+[2020-05-12 00:35:38,284] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:38,888] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:38,889] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:39,465] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:39,466] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://www.macrumors.com/2016/09/20/macos-server-updated-for-sierra/
+[2020-05-12 00:35:39,646] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_BNF
+[2020-05-12 00:35:39,835] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Istimewa:Pranala_balik/Apple_Inc.
+[2020-05-12 00:35:40,796] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Badai_Harvey
+[2020-05-12 00:35:40,996] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://finance.yahoo.com/q?s=AAPL
+[2020-05-12 00:35:42,121] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Anak_perusahaan
+[2020-05-12 00:35:42,310] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sir_Isaac_Newton
+[2020-05-12 00:35:42,626] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Goldman_Sachs
+[2020-05-12 00:35:42,821] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/Barcelona
+[2020-05-12 00:35:43,116] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://venturebeat.com/2018/02/01/idc-smartphone-shipments-down-6-3-in-q4-2017-apple-overtakes-samsung-for-top-spot/
+[2020-05-12 00:35:43,340] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:43,951] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:43,951] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%B4%E0%B6%BD%E0%B7%8A_%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B6%BB%E0%B7%9A%E0%B7%82%E0%B6%B1%E0%B7%8A
+[2020-05-12 00:35:44,126] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling https://da.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:35:44,334] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/CBS
+[2020-05-12 00:35:44,612] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+[2020-05-12 00:35:45,174] ERROR::(P:29776 T:140164560942912)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:35:45,174] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://id.wikipedia.org/wiki/ILife
+[2020-05-12 00:35:45,378] INFO::(P:29776 T:140164560942912)::email_crawler - Crawling http://www.mobilecrunch.com/2010/02/20/over-5000-apps-stricken-from-the-apple-app-store-new-rules-in-place/
+[2020-05-12 00:36:15,044] INFO::(P:29811 T:139773745317696)::email_crawler - ----------------------------------------
+[2020-05-12 00:36:15,044] INFO::(P:29811 T:139773745317696)::email_crawler - Keywords to Google for: @gmail.com
+[2020-05-12 00:36:15,044] INFO::(P:29811 T:139773745317696)::email_crawler - ----------------------------------------
+[2020-05-12 00:36:15,045] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=0
+[2020-05-12 00:36:15,793] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=10
+[2020-05-12 00:36:16,302] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=20
+[2020-05-12 00:36:16,718] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=30
+[2020-05-12 00:36:17,265] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=40
+[2020-05-12 00:36:17,720] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=50
+[2020-05-12 00:36:18,165] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=60
+[2020-05-12 00:36:18,819] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=70
+[2020-05-12 00:36:19,289] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=80
+[2020-05-12 00:36:19,701] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=90
+[2020-05-12 00:36:20,191] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=100
+[2020-05-12 00:36:20,631] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=110
+[2020-05-12 00:36:21,157] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=120
+[2020-05-12 00:36:21,515] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=130
+[2020-05-12 00:36:21,928] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.google.com/search?q=%40gmail.com&start=140
+[2020-05-12 00:36:22,335] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://id.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:36:23,057] INFO::(P:29811 T:139773745317696)::email_crawler - No email at level 1.. proceeding to crawl level 2
+[2020-05-12 00:36:23,080] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:23,645] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Perusahaan_teknologi&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:23,645] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IWork
+[2020-05-12 00:36:23,840] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:24,371] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kendara_otonom&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:24,372] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sydney_Morning_Herald
+[2020-05-12 00:36:24,564] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Nike,_Inc.
+[2020-05-12 00:36:24,778] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_semikonduktor_besar
+[2020-05-12 00:36:24,953] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference
+[2020-05-12 00:36:25,148] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Razer_Inc.
+[2020-05-12 00:36:25,345] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:26,145] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Northern_Trust&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:26,146] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/ipad/
+[2020-05-12 00:36:26,353] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://news.bbc.co.uk/2/hi/technology/3797261.stm
+[2020-05-12 00:36:29,484] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:30,314] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Michael_S._Malone&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:30,314] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:31,082] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=PowerMac_G4&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:31,082] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://sv.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:36:31,325] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_VIAF
+[2020-05-12 00:36:31,611] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080616163344/http://www.wired.com/gadgets/mac/commentary/cultofmac/2006/06/71138
+[2020-05-12 00:36:33,301] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:34,104] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Empat_pita&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:34,104] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IBook
+[2020-05-12 00:36:34,281] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mike_Markkula
+[2020-05-12 00:36:34,470] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Dolar_Amerika_Serikat
+[2020-05-12 00:36:34,779] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:City_of_Madrid_(18045362985).jpg
+[2020-05-12 00:36:34,968] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mozilla_Corporation
+[2020-05-12 00:36:35,187] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Ronald_Wayne
+[2020-05-12 00:36:35,375] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_perangkat_lunak_besar
+[2020-05-12 00:36:35,553] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:36,481] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Proyek_mobil_listrik_Apple&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:36,482] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Xilinx
+[2020-05-12 00:36:36,692] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:CS1_sumber_berbahasa_Inggris_(en)
+[2020-05-12 00:36:36,894] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://en.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:36:37,676] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://ca.wikipedia.org/wiki/Apple_Inc
+[2020-05-12 00:36:37,910] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:38,895] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Arthur_D._Levinson&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:38,895] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:40,519] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BLU_Products&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:40,519] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/2016/09/20/macos-server-updated-for-sierra/
+[2020-05-12 00:36:40,716] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_BNF
+[2020-05-12 00:36:40,919] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Istimewa:Pranala_balik/Apple_Inc.
+[2020-05-12 00:36:41,626] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Badai_Harvey
+[2020-05-12 00:36:41,826] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://finance.yahoo.com/q?s=AAPL
+[2020-05-12 00:36:43,138] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Anak_perusahaan
+[2020-05-12 00:36:43,325] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sir_Isaac_Newton
+[2020-05-12 00:36:43,644] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Goldman_Sachs
+[2020-05-12 00:36:43,854] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Barcelona
+[2020-05-12 00:36:44,145] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://venturebeat.com/2018/02/01/idc-smartphone-shipments-down-6-3-in-q4-2017-apple-overtakes-samsung-for-top-spot/
+[2020-05-12 00:36:45,669] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:46,321] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Silicon_Image&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:46,321] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%B4%E0%B6%BD%E0%B7%8A_%E0%B6%89%E0%B6%B1%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B6%BB%E0%B7%9A%E0%B7%82%E0%B6%B1%E0%B7%8A
+[2020-05-12 00:36:46,494] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://da.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:36:46,698] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/CBS
+[2020-05-12 00:36:47,048] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:48,039] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=International_Securities_Identification_Number&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:48,039] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ILife
+[2020-05-12 00:36:48,242] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.mobilecrunch.com/2010/02/20/over-5000-apps-stricken-from-the-apple-app-store-new-rules-in-place/
+[2020-05-12 00:36:51,262] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://bgr.com/2017/05/22/iphone-vs-android-switchers-ad-campaign/
+[2020-05-12 00:36:52,361] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://foundation.wikimedia.org/wiki/Privacy_policy
+[2020-05-12 00:36:52,557] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wikipedia:Pancapilar
+[2020-05-12 00:36:52,864] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/United_Continental_Holdings
+[2020-05-12 00:36:53,048] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.bloomberg.com/news/articles/2016-09-16/the-apple-store-line-is-dying-as-iphone-fans-order-more-online
+[2020-05-12 00:36:54,300] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://gadgets.ndtv.com/mobiles/news/apple-ceo-tim-cook-i-love-india-but-247307
+[2020-05-12 00:36:54,582] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theverge.com/2017/11/29/16715246/apple-releases-high-sierra-root-security-patch
+[2020-05-12 00:36:54,884] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Perusahaan_Dow_Jones_Industrial_Average&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:55,832] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Perusahaan_Dow_Jones_Industrial_Average&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:55,833] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Reputation.com&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:56,473] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Reputation.com&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:56,473] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Tecno_Mobile&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:57,115] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Tecno_Mobile&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:57,116] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.statista.com/topics/870/iphone/
+[2020-05-12 00:36:57,523] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:58,108] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Idexx_Laboratories&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:58,109] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Industri_elektronik_di_Amerika_Serikat&amp;action=edit&amp;redlink=1
+[2020-05-12 00:36:58,634] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Industri_elektronik_di_Amerika_Serikat&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:36:58,634] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;veaction=edit
+[2020-05-12 00:37:01,300] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://musicbrainz.org/artist/9b502a85-104b-4489-beff-ecedca81741c
+[2020-05-12 00:37:03,899] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:All_pages_needing_factual_verification&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:04,587] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theverge.com/2017/9/12/16288806/apple-iphone-x-price-release-date-features-announced
+[2020-05-12 00:37:04,913] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wina
+[2020-05-12 00:37:05,201] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.irishtimes.com/business/economy/apple-s-irish-company-structure-key-to-eu-tax-finding-1.2775684
+[2020-05-12 00:37:06,497] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Singgahan_(komputasi)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:07,395] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Singgahan_(komputasi)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:07,395] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=MacBook_(Retina)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:07,955] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=MacBook_(Retina)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:07,956] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/720p
+[2020-05-12 00:37:08,141] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_Air_2&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:08,708] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_Air_2&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:08,708] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Seleb_Apple
+[2020-05-12 00:37:08,893] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://fo.wikipedia.org/wiki/Apple
+[2020-05-12 00:37:09,061] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.climatecounts.org/scorecard_score.php?co=7
+[2020-05-12 00:37:14,099] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Google_Pixel&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:14,678] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Google_Pixel&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:14,679] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2017/02/17/ipad-pro-pc-ads/
+[2020-05-12 00:37:14,918] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=NBCUniversal_News_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:15,539] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=NBCUniversal_News_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:15,539] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Ron_Johnson_(pebisnis)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:16,078] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Ron_Johnson_(pebisnis)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:16,078] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Penawaran_umum_perdana_tahun_1980-an&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:17,041] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Steven_Levy&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:17,825] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Steven_Levy&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:17,826] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Wiko&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:19,637] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Wiko&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:19,637] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/2018/02/01/apple-now-has-1-3-billion-active-devices-worldwide/
+[2020-05-12 00:37:19,875] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=The_Register&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:20,427] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=The_Register&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:20,427] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_SUDOC
+[2020-05-12 00:37:20,621] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IPhone_6S
+[2020-05-12 00:37:20,858] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Tingkat_pajak&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:21,647] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Tingkat_pajak&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:21,647] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Actuate_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:23,136] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Actuate_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:23,136] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Herzliya
+[2020-05-12 00:37:23,347] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Perusahaan_teknologi_yang_berpusat_di_Wilayah_Teluk_San_Francisco&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:24,058] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:Apple_store_fifth_avenue.jpg
+[2020-05-12 00:37:24,269] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.youtube.com/watch?v=CW0DUg63lqU&amp;hd=1
+[2020-05-12 00:37:24,509] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Artikel_yang_mengandung_pernyataan_berpotensi_usang_sejak_Juli_2018&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:25,129] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.cultofmac.com/194455/apple-posts-steve-jobs-tribute-his-spirit-will-forever-be-the-foundation-of-apple/
+[2020-05-12 00:37:26,424] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/HomePod
+[2020-05-12 00:37:26,611] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/PCI_Express
+[2020-05-12 00:37:26,798] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20101104233204/http://www.wired.com/gadgetlab/2010/11/foxconn-photo-gallery/?pid=731&amp;viewall=true
+[2020-05-12 00:37:32,993] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Hak_pekerja
+[2020-05-12 00:37:33,187] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IPad_2
+[2020-05-12 00:37:33,396] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Halaman_dengan_kesalahan_referensi
+[2020-05-12 00:37:33,647] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Produksi_nirpabrik&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:34,193] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Produksi_nirpabrik&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:34,194] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://finance.yahoo.com/quote/AAPL/holders?p=AAPL
+[2020-05-12 00:37:35,356] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://ga.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:37:35,516] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20100130142222/http://www.macrumors.com/2010/01/27/apple-tablet-media-event-today-come-see-our-latest-creation/
+[2020-05-12 00:37:37,366] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;veaction=edit&amp;section=25
+[2020-05-12 00:37:39,364] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mac_OS_X
+[2020-05-12 00:37:39,653] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France
+[2020-05-12 00:37:39,875] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Liberty_Global&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:40,522] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Liberty_Global&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:40,522] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080725082132/http://www.apple.com/hotnews/agreenerapple/
+[2020-05-12 00:37:41,807] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Layar_LCD_bercahaya_latar_LED&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:42,377] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Layar_LCD_bercahaya_latar_LED&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:42,378] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://nla.gov.au/anbd.aut-an36551832
+[2020-05-12 00:37:44,111] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://kn.wikipedia.org/wiki/%E0%B2%86%E0%B2%AA%E0%B2%B2%E0%B3%8D
+[2020-05-12 00:37:44,305] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://vi.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:37:44,729] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Adobe_Systems
+[2020-05-12 00:37:44,967] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Palo_Alto_Networks&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:45,511] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Palo_Alto_Networks&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:45,511] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fortune_500
+[2020-05-12 00:37:45,696] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Telepon_genggam#Produsen
+[2020-05-12 00:37:45,942] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:46,480] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=American_Airlines_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:46,481] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Oath_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:47,018] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Oath_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:47,018] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Media_pemutaran_mengalir&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:47,624] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Media_pemutaran_mengalir&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:47,625] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=HGST&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:48,438] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=HGST&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:48,438] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2017/05/17/iphone-made-in-india-2/
+[2020-05-12 00:37:49,411] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://tech.fortune.cnn.com/2012/10/29/inside-apples-major-shakeup/
+[2020-05-12 00:37:49,589] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://tech.fortune.cnn.com/2012/10/29/inside-apples-major-shakeup/
+HTTP Error 502: Bad Gateway
+[2020-05-12 00:37:49,590] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Signetics&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:50,254] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Signetics&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:50,255] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/USA_Today
+[2020-05-12 00:37:50,440] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/newsroom/2001/05/15Apple-to-Open-25-Retail-Stores-in-2001/
+[2020-05-12 00:37:50,616] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://id.wikivoyage.org/wiki/Special:Search/Cupertino
+[2020-05-12 00:37:52,311] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/pr/library/2009/04/24appstore.html
+[2020-05-12 00:37:52,782] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Robin_Williams
+[2020-05-12 00:37:53,009] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://appleinsider.com/articles/15/12/14/apple-buys-former-maxim-chip-fab-in-north-san-jose-neighboring-samsung-semiconductor-
+[2020-05-12 00:37:55,131] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Greenpeace
+[2020-05-12 00:37:55,362] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/2015/09/24/iphone-6s-apple-store-lineups/
+[2020-05-12 00:37:55,612] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Nelson_Mandela
+[2020-05-12 00:37:56,050] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/PDF
+[2020-05-12 00:37:56,282] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/PDB
+[2020-05-12 00:37:56,524] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/United_Technologies
+[2020-05-12 00:37:56,750] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Moskwa
+[2020-05-12 00:37:57,158] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Maps_(aplikasi)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:57,908] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Maps_(aplikasi)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:57,908] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Dan_Riccio&amp;action=edit&amp;redlink=1
+[2020-05-12 00:37:58,746] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Dan_Riccio&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:37:58,747] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/TechCrunch
+[2020-05-12 00:37:58,961] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.docketalarm.com/cases/AllNaturesOfSuit/Apple%2C%20Inc./
+[2020-05-12 00:38:00,481] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20140304092046/http://www.wired.com/science/discoveries/news/2002/01/49652
+[2020-05-12 00:38:02,994] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://hr.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:38:03,181] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%AA%E0%A8%B2
+[2020-05-12 00:38:03,388] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/AppleTalk
+[2020-05-12 00:38:03,569] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Airport
+[2020-05-12 00:38:03,748] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://zh-min-nan.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:38:03,905] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/CNET
+[2020-05-12 00:38:04,093] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/MediaTek
+[2020-05-12 00:38:04,326] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fujitsu
+[2020-05-12 00:38:04,575] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://id.wikinews.org/wiki/Special:Search/Apple_Inc.
+[2020-05-12 00:38:06,145] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/The_Washington_Post
+[2020-05-12 00:38:06,355] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Pengelompokan_OpenCorporates
+[2020-05-12 00:38:06,533] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Yahoo!
+[2020-05-12 00:38:06,794] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/San_Jos%C3%A9,_California
+[2020-05-12 00:38:07,061] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=New_Town_Plaza&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:07,671] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=New_Town_Plaza&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:07,671] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-4)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:08,265] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-4)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:08,266] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wikipedia:Warung_Kopi
+[2020-05-12 00:38:08,510] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_MusicBrainz
+[2020-05-12 00:38:08,740] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kimball_International&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:09,274] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kimball_International&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:09,274] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/NEC
+[2020-05-12 00:38:09,514] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=LSI_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:10,092] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=LSI_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:10,093] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/STMicroelectronics
+[2020-05-12 00:38:10,312] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Commodore_International
+[2020-05-12 00:38:10,501] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://arstechnica.com/apple/2015/09/apples-new-ipad-2-pro-is-an-expansive-12-9-inches/
+[2020-05-12 00:38:13,114] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.greenpeace.org/international/en/campaigns/toxics/electronics/Guide-to-Greener-Electronics/which-companies-really-sell-gr/
+[2020-05-12 00:38:15,634] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://www.greenpeace.org/international/en/campaigns/toxics/electronics/Guide-to-Greener-Electronics/which-companies-really-sell-gr/
+HTTP Error 404: Not Found
+[2020-05-12 00:38:15,634] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Mark_Papermaster&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:16,179] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Mark_Papermaster&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:16,180] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://so.wikipedia.org/wiki/Apple_Inc
+[2020-05-12 00:38:16,337] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Alto
+[2020-05-12 00:38:16,516] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://google.brand.edgar-online.com/?sym=AAPL
+[2020-05-12 00:38:18,472] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Magnavox
+[2020-05-12 00:38:18,652] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=KEMET_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:19,212] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=KEMET_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:19,213] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Cirque_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:19,794] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Cirque_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:19,795] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/JD.com
+[2020-05-12 00:38:20,026] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.zdnet.com/blog/semantic-web/siri-acquired-by-apple-iphone-becomes-the-virtual-personal-assistant/371
+[2020-05-12 00:38:23,052] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: https://www.zdnet.com/blog/semantic-web/siri-acquired-by-apple-iphone-becomes-the-virtual-personal-assistant/371
+HTTP Error 404: Not Found
+[2020-05-12 00:38:23,052] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Pemegang_saham
+[2020-05-12 00:38:23,231] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20100201014134/https://www.pcworld.com/article/188149/atandt_beefing_up_network_for_ipad_and_iphone.html
+[2020-05-12 00:38:25,503] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Jony_Ive&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:26,476] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Jony_Ive&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:26,476] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.abc.net.au/news/stories/2010/10/26/3048024.htm
+[2020-05-12 00:38:27,170] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ASML_Holding
+[2020-05-12 00:38:27,450] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BlackBerry_Mobile&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:28,060] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BlackBerry_Mobile&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:28,061] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Procter_%26_Gamble
+[2020-05-12 00:38:28,305] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/PC_Magazine
+[2020-05-12 00:38:28,485] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB_(%E4%BC%81%E6%A5%AD)
+[2020-05-12 00:38:29,004] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/iwork/
+[2020-05-12 00:38:29,199] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Layanan_penyimpanan_berkas&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:29,767] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Layanan_penyimpanan_berkas&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:29,767] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/LCD
+[2020-05-12 00:38:30,489] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/newsroom/2016/08/apple-announces-environmental-progress-in-china/
+[2020-05-12 00:38:33,182] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Dana_cadangan&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:33,756] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Dana_cadangan&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:33,757] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Inc.#1989_hingga_1991:_Periode_Emas
+[2020-05-12 00:38:34,364] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/environment/
+[2020-05-12 00:38:34,606] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://is.wikipedia.org/wiki/Apple
+[2020-05-12 00:38:35,806] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://d-nb.info/gnd/1095305-X
+[2020-05-12 00:38:42,084] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=NeXTstep&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:42,636] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=NeXTstep&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:42,637] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Halaman_depan&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:43,449] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Halaman_depan&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:43,450] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPhone_6_Plus&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:43,991] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPhone_6_Plus&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:43,992] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://an.wikipedia.org/wiki/Apple
+[2020-05-12 00:38:45,652] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Magellan_Navigation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:46,552] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Magellan_Navigation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:46,553] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Silicon_Valley
+[2020-05-12 00:38:46,787] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Samsung
+[2020-05-12 00:38:47,068] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Nothing_Real&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:47,677] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Nothing_Real&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:47,678] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://techcrunch.com/2017/09/12/the-new-apple-watch-series-3-has-cellular-built-in/
+[2020-05-12 00:38:49,577] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080907003704/http://billday.com/2007/06/29/say-hello-to-iphone/
+[2020-05-12 00:38:58,398] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Aqua_(antarmuka_pengguna)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:38:59,294] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Aqua_(antarmuka_pengguna)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:38:59,295] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.reuters.com/article/us-apple-india/apple-india-wrangle-over-import-tax-on-mobile-parts-sources-idUSKBN1E50WK
+[2020-05-12 00:39:00,219] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Campbell,_California&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:00,749] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Campbell,_California&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:00,749] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://eu.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:39:01,863] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:IPhone_montage.png
+[2020-05-12 00:39:03,445] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Climate_Counts&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:03,992] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Climate_Counts&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:03,993] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Jam_pintar&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:04,748] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Jam_pintar&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:04,748] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Take-Two_Interactive&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:05,321] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Take-Two_Interactive&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:05,321] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Gempa_bumi_Haiti_2010
+[2020-05-12 00:39:05,572] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Eric_Schmidt
+[2020-05-12 00:39:05,820] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Advanced_Micro_Devices
+[2020-05-12 00:39:06,048] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Inc.#1981_hingga_1989:_Lisa_dan_Macintosh
+[2020-05-12 00:39:06,657] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://arstechnica.com/gadgets/2014/09/apple-expands-data-encryption-under-ios-8-making-handover-to-cops-moot/
+[2020-05-12 00:39:08,371] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://support.apple.com/en-us/HT202186
+[2020-05-12 00:39:08,689] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://mn.wikipedia.org/wiki/Apple_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8
+[2020-05-12 00:39:10,696] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Steve_Wozniak
+[2020-05-12 00:39:11,780] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Perusahaan_perangkat_bergerak_besar
+[2020-05-12 00:39:12,410] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kepulauan_Virgin_Britania
+[2020-05-12 00:39:13,727] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Muhammad_Ali
+[2020-05-12 00:39:14,047] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Republik_Irlandia
+[2020-05-12 00:39:14,358] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Final_Cut_Pro_X&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:14,887] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Final_Cut_Pro_X&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:14,887] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.wap.org/tours/macworldny/ithink.html
+[2020-05-12 00:39:18,211] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Tony_Fadell
+[2020-05-12 00:39:18,409] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://creatingcustomerevangelists.com/resources/evangelists/guy_kawasaki.asp
+[2020-05-12 00:39:19,617] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://creatingcustomerevangelists.com/resources/evangelists/guy_kawasaki.asp
+<urlopen error [Errno -2] Name or service not known>
+[2020-05-12 00:39:19,617] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Santa_Clara,_California
+[2020-05-12 00:39:19,890] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Integrated_Authority_File
+[2020-05-12 00:39:20,721] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Badai_Sandy
+[2020-05-12 00:39:21,303] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://sl.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:39:22,768] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Inc.#Privasi
+[2020-05-12 00:39:23,380] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Magic_Mouse&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:23,994] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Magic_Mouse&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:23,994] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Motif_desain_Apple_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:24,547] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Motif_desain_Apple_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:24,547] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Achronix&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:25,167] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Achronix&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:25,167] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Refurbishment_(elektronik)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:25,703] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Refurbishment_(elektronik)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:25,703] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Comcast
+[2020-05-12 00:39:25,893] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/NDTV
+[2020-05-12 00:39:26,907] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Electronic_Arts
+[2020-05-12 00:39:27,152] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.abc.net.au/foreign/content/2010/s3044840.htm
+[2020-05-12 00:39:27,584] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://www.abc.net.au/foreign/content/2010/s3044840.htm
+HTTP Error 404: Not Found
+[2020-05-12 00:39:27,585] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://sr.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:39:29,034] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Perusahaan_komputer_yang_didirikan_tahun_1976&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:29,685] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Visa_Inc.
+[2020-05-12 00:39:31,961] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/SAP_SE
+[2020-05-12 00:39:32,199] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/hotnews/agreenerapple/
+[2020-05-12 00:39:32,926] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Watch_Series_2&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:33,502] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Watch_Series_2&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:33,502] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:Steve_Jobs_Theater_-_Auditorium.jpg
+[2020-05-12 00:39:34,174] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Mylan&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:35,111] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Mylan&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:35,112] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Perusahaan_perangkat_keras_komputer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:36,037] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theverge.com/2015/9/9/9287861/apple-ipad-mini-4-specs-price-release-date-announced
+[2020-05-12 00:39:37,364] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_A6X&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:37,978] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_A6X&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:37,979] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fruitarian
+[2020-05-12 00:39:38,607] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Menlo_Park,_California
+[2020-05-12 00:39:38,854] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Final_Cut_Pro&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:40,366] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Final_Cut_Pro&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:40,366] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Micromax_Informatics
+[2020-05-12 00:39:41,574] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.nytimes.com/1985/03/19/science/personal-computers-apple-might-learn-a-thing-or-two-from-ibm.html
+[2020-05-12 00:39:43,504] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Omnicom_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:44,467] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Omnicom_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:44,468] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://mashable.com/2017/06/14/apple-store-wedding-pics/
+[2020-05-12 00:39:45,383] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Boy_Genius_Report&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:45,923] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Boy_Genius_Report&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:45,924] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Budaya_perusahaan&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:46,462] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Budaya_perusahaan&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:46,462] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Britania_Raya
+[2020-05-12 00:39:47,109] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Tweeter&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:47,696] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Tweeter&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:47,696] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Badai_Irma
+[2020-05-12 00:39:48,362] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/LinkedIn
+[2020-05-12 00:39:48,586] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=FileMaker&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:49,224] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=FileMaker&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:49,225] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/VGA
+[2020-05-12 00:39:49,455] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/W._W._Norton_%26_Company
+[2020-05-12 00:39:50,440] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Ronald_Sugar
+[2020-05-12 00:39:51,515] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.bizjournals.com/sanjose/news/2015/12/14/exclusive-apple-buys-former-chip-fab-in-north-san.html
+[2020-05-12 00:39:52,181] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Video_komponen&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:52,776] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Video_komponen&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:52,777] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://no.wikipedia.org/wiki/Apple
+[2020-05-12 00:39:53,261] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/World_Wide_Fund_for_Nature
+[2020-05-12 00:39:54,189] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Keyboard&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:54,758] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Keyboard&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:54,759] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Fred_D._Anderson&amp;action=edit&amp;redlink=1
+[2020-05-12 00:39:55,555] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Fred_D._Anderson&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:39:55,556] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.wsj.com/articles/SB118677584137994489
+[2020-05-12 00:39:58,236] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:Regent_Street_Apple_Store,_London_12297897574_o.jpg
+[2020-05-12 00:39:59,085] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kasus_bantuan_pemerintah_ilegal_UE_melawan_Apple_di_Irlandia&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:00,008] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Kasus_bantuan_pemerintah_ilegal_UE_melawan_Apple_di_Irlandia&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:00,009] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Ketua
+[2020-05-12 00:40:00,212] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Redmi
+[2020-05-12 00:40:00,976] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://et.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:40:02,589] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/
+[2020-05-12 00:40:03,210] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Xerox_PARC
+[2020-05-12 00:40:04,400] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Glassdoor&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:05,004] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Glassdoor&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:05,004] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Chief_executive_officer
+[2020-05-12 00:40:05,232] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://ia.wikipedia.org/wiki/Apple_Computer
+[2020-05-12 00:40:06,144] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Verizon_Communications
+[2020-05-12 00:40:06,411] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-1)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:07,023] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_(generasi_ke-1)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:07,024] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPad_(4th_generation)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:07,963] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPad_(4th_generation)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:07,963] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Bertrand_Serlet&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:08,528] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Bertrand_Serlet&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:08,529] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/2016/02/08/apple-retail-locations-in-india/
+[2020-05-12 00:40:09,448] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BYTE&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:10,372] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BYTE&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:10,372] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%AA%E0%AC%B2_%E0%AC%95%E0%AC%AE%E0%AD%8D%E0%AC%AA%E0%AC%BE%E0%AC%A8%E0%AD%80
+[2020-05-12 00:40:11,261] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.nydailynews.com/entertainment/music/2008/03/11/2008-03-11_apple_ad_creates_recognition_for_yael_na.html
+[2020-05-12 00:40:12,450] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://www.nydailynews.com/entertainment/music/2008/03/11/2008-03-11_apple_ad_creates_recognition_for_yael_na.html
+HTTP Error 404: Not Found
+[2020-05-12 00:40:12,450] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Card&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:13,995] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Card&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:13,995] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wayback_Machine
+[2020-05-12 00:40:14,194] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2010/01/14/apple-sets-up-haiti-donation-page-in-itunes/
+[2020-05-12 00:40:15,103] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://finance.google.com/finance?cid=AAPL
+[2020-05-12 00:40:16,730] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Terminal_komputer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:17,366] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Terminal_komputer&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:17,366] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=39
+[2020-05-12 00:40:19,513] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=38
+[2020-05-12 00:40:21,323] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080618233109/http://traveldk.com/san-francisco/bay-area/member/apple-inc
+[2020-05-12 00:40:24,841] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=33
+[2020-05-12 00:40:27,094] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=32
+[2020-05-12 00:40:29,148] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=31
+[2020-05-12 00:40:30,988] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=30
+[2020-05-12 00:40:33,374] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=37
+[2020-05-12 00:40:36,071] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=36
+[2020-05-12 00:40:38,081] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=35
+[2020-05-12 00:40:40,338] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Patent&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:40,913] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Patent&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:40,913] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Lenovo
+[2020-05-12 00:40:41,133] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.cnet.com/news/apple-by-the-numbers-84m-ipads-400m-ios-devices-350m-ipods-sold/
+[2020-05-12 00:40:44,839] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/2014/12/17/apple-product-red-20-million/
+[2020-05-12 00:40:45,723] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Semikonduktor
+[2020-05-12 00:40:45,957] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.oazoo.com
+[2020-05-12 00:40:46,903] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Fidelity_Investments&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:47,568] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Fidelity_Investments&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:47,568] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=BMC_Software&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:48,091] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=BMC_Software&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:48,091] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit
+[2020-05-12 00:40:50,240] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+[2020-05-12 00:40:51,412] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://sa.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A5%8D
+[2020-05-12 00:40:53,016] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Honeywell
+[2020-05-12 00:40:55,574] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Fortune_00&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:56,174] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Fortune_00&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:56,175] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=No_Starch_Press&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:56,816] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=No_Starch_Press&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:56,816] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pendapatan_nasional_bruto_disesuaikan&amp;action=edit&amp;redlink=1
+[2020-05-12 00:40:57,411] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pendapatan_nasional_bruto_disesuaikan&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:40:57,412] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Capcom
+[2020-05-12 00:40:57,646] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org//id.wikinews.org/wiki/Special:Search/Apple_Inc.
+[2020-05-12 00:40:58,090] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org//id.wikinews.org/wiki/Special:Search/Apple_Inc.
+HTTP Error 404: Not Found
+[2020-05-12 00:40:58,091] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theguardian.com/technology/2015/apr/08/confessions-of-an-apple-fanboy-im-going-to-miss-the-queues
+[2020-05-12 00:41:04,703] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Mondelez_International
+[2020-05-12 00:41:04,968] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=FingerWorks&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:05,530] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=FingerWorks&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:05,530] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Istimewa:Daftar_kategori
+[2020-05-12 00:41:06,384] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Perusahaan_multinasional_yang_berpusat_di_Amerika_Serikat&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:07,023] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Virtual_International_Authority_File
+[2020-05-12 00:41:07,248] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.usatoday.com/story/tech/2016/12/21/nokia-sues-apple-patent-infringement/95709378/
+[2020-05-12 00:41:07,839] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/2002
+[2020-05-12 00:41:08,067] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Pencil&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:08,822] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Pencil&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:08,823] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Rambus&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:09,436] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Rambus&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:09,437] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:An_Apple_HomePod_speaker_.png
+[2020-05-12 00:41:10,423] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/pr/library/2011/10/17iPhone-4S-First-Weekend-Sales-Top-Four-Million.html
+[2020-05-12 00:41:11,149] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Universitas_California,_Santa_Cruz
+[2020-05-12 00:41:11,383] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=IPod_Classic&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:11,954] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=IPod_Classic&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:11,954] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://tt.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:41:13,035] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Campus&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:14,503] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Campus&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:14,503] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Game_Center&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:15,984] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Game_Center&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:15,985] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Lingkungan_kerja_tidak_sehat&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:16,530] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Lingkungan_kerja_tidak_sehat&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:16,530] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://dty.wikipedia.org/wiki/%E0%A4%8F%E0%A4%AA%E0%A5%8D%E0%A4%AA%E0%A4%B2_%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A5%80
+[2020-05-12 00:41:18,343] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Artikel_Wikipedia_dengan_penanda_SNAC-ID
+[2020-05-12 00:41:19,989] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Tenaga_surya
+[2020-05-12 00:41:21,258] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Statista&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:21,849] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Statista&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:21,849] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Elektronik_konsumen
+[2020-05-12 00:41:22,051] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Paul_Krugman
+[2020-05-12 00:41:23,713] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Store_(daring)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:24,322] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Store_(daring)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:24,323] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.nytimes.com/2009/12/06/technology/06apps.html?pagewanted=all
+[2020-05-12 00:41:27,397] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/3M
+[2020-05-12 00:41:27,593] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20111008110802/http://media.theage.com.au/news/world-news/tearful-memories-for-apple-cofounder-2675550.html
+[2020-05-12 00:41:32,423] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:Flag_of_the_United_States.svg
+[2020-05-12 00:41:32,678] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.irishexaminer.com/ireland/kfgbsnsnmhoj/rss2/
+[2020-05-12 00:41:35,221] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/3G
+[2020-05-12 00:41:35,433] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Angela_Ahrendts&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:36,043] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Angela_Ahrendts&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:36,043] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Berkas:IPod_line_as_of_2014.png
+[2020-05-12 00:41:37,100] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Sichuan
+[2020-05-12 00:41:37,342] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.pcworld.com/article/188149/atandt_beefing_up_network_for_ipad_and_iphone.html
+[2020-05-12 00:41:42,515] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kesetiaan_merek
+[2020-05-12 00:41:43,370] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=NVM_Express&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:44,019] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=NVM_Express&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:44,019] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theverge.com/2017/9/30/16390098/apple-iphone-8-plus-ad-portrait-lighting
+[2020-05-12 00:41:45,280] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/newsroom/2008/02/05Apple-Adds-New-iPhone-iPod-touch-Models/
+[2020-05-12 00:41:45,927] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Alcatel_Mobile&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:46,752] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Alcatel_Mobile&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:46,753] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Verisk_Analytics&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:47,295] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Verisk_Analytics&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:47,295] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Ohlone_College&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:48,882] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Ohlone_College&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:48,882] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Portal:Apple_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:50,741] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Portal:Apple_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:50,741] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://arstechnica.com/apple/2015/09/apple-announces-the-iphone-6s-and-6s-plus/
+[2020-05-12 00:41:53,728] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Distribusi_digital
+[2020-05-12 00:41:54,305] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.marketwatch.com/investing/stock/aapl/financials
+[2020-05-12 00:41:56,726] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Accelerated_Graphics_Port
+[2020-05-12 00:41:57,305] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/NPR
+[2020-05-12 00:41:58,661] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Google
+[2020-05-12 00:41:58,972] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Irlandia_ganda_dengan_roti_lapis_Belanda&amp;action=edit&amp;redlink=1
+[2020-05-12 00:41:59,530] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Irlandia_ganda_dengan_roti_lapis_Belanda&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:41:59,531] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ZTE
+[2020-05-12 00:41:59,754] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.forbes.com/sites/susanadams/2013/09/27/is-apple-the-worlds-most-innovative-company-still/
+[2020-05-12 00:42:01,530] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20150818101000/http://money.cnn.com/2015/07/22/investing/apple-stock-cash-earnings/
+[2020-05-12 00:42:05,992] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Activision_Blizzard&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:06,598] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Activision_Blizzard&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:06,599] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/SanDisk
+[2020-05-12 00:42:06,826] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Forbes
+[2020-05-12 00:42:07,048] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/ie/contact/
+[2020-05-12 00:42:07,909] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.apple.com/newsroom/2008/06/09Apple-Introduces-the-New-iPhone-3G/
+[2020-05-12 00:42:08,495] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Templat:Industri_elektronik_di_Amerika_Serikat
+[2020-05-12 00:42:09,280] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://thebrainfever.com/apple/the-lost-apple-logos-you-ve-never-seen
+[2020-05-12 00:42:10,529] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=PRISM_(program_pengintaian)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:11,126] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=PRISM_(program_pengintaian)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:11,126] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.theverge.com/2016/9/7/12828846/apple-s-greatest-product-is-its-ecosystem
+[2020-05-12 00:42:16,518] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Produsen_telepon_genggam&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:17,438] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Woofer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:18,019] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Woofer&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:18,020] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Jabil&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:18,656] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Jabil&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:18,656] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Monster_Beverage&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:19,263] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Monster_Beverage&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:19,264] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://biz.yahoo.com/ic/AAPL.html
+[2020-05-12 00:42:20,799] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Beats_Electronics&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:21,379] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Beats_Electronics&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:21,380] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/19990827174523/http://www.apple.com/
+[2020-05-12 00:42:31,153] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/1984_(novel)
+[2020-05-12 00:42:32,026] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ZDNet
+[2020-05-12 00:42:32,261] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Qualcomm
+[2020-05-12 00:42:32,497] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Lululemon_Athletica&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:34,114] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Lululemon_Athletica&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:34,114] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=MercadoLibre&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:34,750] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=MercadoLibre&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:34,750] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Microsoft
+[2020-05-12 00:42:35,191] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Time_Capsule&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:35,804] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Time_Capsule&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:35,804] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/North_Carolina
+[2020-05-12 00:42:36,561] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.wired.com/wiredenterprise/2012/05/apple_coal/
+[2020-05-12 00:42:49,498] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://hyw.wikipedia.org/wiki/%D4%B7%D6%83%D5%A8%D5%AC
+[2020-05-12 00:42:52,001] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://pfl.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:42:53,020] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/American_Express
+[2020-05-12 00:42:53,254] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2018/01/15/martin-luther-king-jr-day/
+[2020-05-12 00:42:54,201] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://techcrunch.com/2016/06/13/apple-overhauls-watchos-with-new-ui-and-faster-app-launching/
+[2020-05-12 00:42:56,289] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Wireless_LAN
+[2020-05-12 00:42:56,507] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Jangkauan_dinamis_tinggi&amp;action=edit&amp;redlink=1
+[2020-05-12 00:42:57,414] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Jangkauan_dinamis_tinggi&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:42:57,414] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=28
+[2020-05-12 00:42:59,201] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=29
+[2020-05-12 00:43:01,497] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=20
+[2020-05-12 00:43:04,678] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=21
+[2020-05-12 00:43:07,449] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=22
+[2020-05-12 00:43:11,136] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=23
+[2020-05-12 00:43:14,781] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=24
+[2020-05-12 00:43:17,118] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=25
+[2020-05-12 00:43:19,412] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=26
+[2020-05-12 00:43:21,204] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Inc.&amp;action=edit&amp;section=27
+[2020-05-12 00:43:23,613] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Semiconductor_Manufacturing_International_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:24,225] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Semiconductor_Manufacturing_International_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:24,226] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.macrumors.com/roundup/apple-music/
+[2020-05-12 00:43:25,139] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080921095608/http://www.operating-system.org/betriebssystem/_english/fa-apple.htm
+[2020-05-12 00:43:28,533] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Henry_Schein&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:29,078] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Henry_Schein&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:29,078] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://uk.reuters.com/article/2012/04/20/us-apple-ireland-idUKBRE83J0PI20120420
+[2020-05-12 00:43:29,537] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://uk.reuters.com/article/2012/04/20/us-apple-ireland-idUKBRE83J0PI20120420
+HTTP Error 404: Not Found
+[2020-05-12 00:43:29,537] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20070602180903/http://www.apple.com/macbookpro/graphics.html
+[2020-05-12 00:43:32,404] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://el.wikipedia.org/wiki/Apple
+[2020-05-12 00:43:35,427] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Menlo_College&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:36,002] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Menlo_College&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:36,002] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=David_Nagel&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:37,775] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=David_Nagel&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:37,775] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.folklore.org/StoryView.py?project=Macintosh&amp;story=Credit_Where_Due.txt
+[2020-05-12 00:43:39,493] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Garis_waktu_produk_Apple_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:40,107] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Garis_waktu_produk_Apple_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:40,107] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/App_Store_(iOS)
+[2020-05-12 00:43:40,357] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Bangalore
+[2020-05-12 00:43:41,265] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2017/06/20/apple-product-secrecy-leaks-leaked-meeting/
+[2020-05-12 00:43:42,280] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Kategori:Artikel_yang_mengandung_pernyataan_berpotensi_usang_sejak_September_2012&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:43,227] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.microprocessor.sscc.ru/comphist/
+[2020-05-12 00:43:45,117] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://www.microprocessor.sscc.ru/comphist/
+HTTP Error 404: Not Found
+[2020-05-12 00:43:45,118] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Pembelajaran_mesin
+[2020-05-12 00:43:46,222] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Peter_Oppenheimer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:46,819] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Peter_Oppenheimer&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:46,819] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://9to5mac.com/2015/01/19/apple-commemorates-martin-luther-king-on-its-homepage-encouraging-employees-to-volunteer-through-gift-matching/
+[2020-05-12 00:43:47,838] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.engadget.com/2010/09/29/apple-tv-teardown-reveals-8gb-flash-storage-256mb-ram/
+[2020-05-12 00:43:49,302] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Daftar_perusahaan_perangkat_lunak_terbesar&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:50,066] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Daftar_perusahaan_perangkat_lunak_terbesar&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:50,067] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Newton_(platform)&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:51,628] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Newton_(platform)&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:51,628] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Alih_daya
+[2020-05-12 00:43:51,830] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Daftar_produsen_perangkat_keras_komputer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:52,384] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Daftar_produsen_perangkat_keras_komputer&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:52,384] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://inhabitat.com/apples-new-headquarters-will-be-designed-by-norman-foster/
+[2020-05-12 00:43:53,922] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Silicon_Valley&amp;action=edit&amp;redlink=1
+[2020-05-12 00:43:55,379] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Pembicaraan_Templat:Silicon_Valley&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:43:55,380] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20080602225734/http://www.microprocessor.sscc.ru/comphist/
+[2020-05-12 00:43:58,803] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://ku.wikipedia.org/wiki/Apple,_Inc.
+[2020-05-12 00:43:59,621] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:00,210] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Walgreens_Boots_Alliance&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:00,211] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Pembicaraan:Apple_Inc.
+[2020-05-12 00:44:00,851] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Amadeus_IT_Group&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:01,864] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Amadeus_IT_Group&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:01,865] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://arstechnica.com/tech-policy/2016/01/virnetx-kicks-off-final-massive-patent-trolling-attempt-vs-apple/
+[2020-05-12 00:44:03,304] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Sanmina_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:03,900] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Sanmina_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:03,900] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Telepon_pintar
+[2020-05-12 00:44:05,371] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Cisco_Webex
+[2020-05-12 00:44:05,604] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=FileMaker_Inc.&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:06,380] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=FileMaker_Inc.&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:06,380] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IWoz
+[2020-05-12 00:44:06,977] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Martin_Luther_King_Jr.
+[2020-05-12 00:44:07,286] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://9to5mac.com/2016/06/10/apple-energy-landfill-gas-electricity/
+[2020-05-12 00:44:08,211] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ExxonMobil
+[2020-05-12 00:44:08,428] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Logo&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:09,399] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Logo&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:09,399] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_v._Samsung&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:09,987] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_v._Samsung&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:09,988] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Kategori:Perusahaan_teknologi_Amerika_Serikat
+[2020-05-12 00:44:10,533] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/ITunes
+[2020-05-12 00:44:10,759] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Apple_Developer&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:11,308] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Apple_Developer&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:11,309] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Automatic_Data_Processing&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:11,851] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Automatic_Data_Processing&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:11,852] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Fastenal
+[2020-05-12 00:44:12,130] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=TiVo_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:12,693] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=TiVo_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:12,694] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://aaplinvestors.net/stats/acquisitions/
+[2020-05-12 00:44:14,032] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Apple_Inc.
+[2020-05-12 00:44:14,633] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Acer_Inc.
+[2020-05-12 00:44:14,855] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/IPhone_3GS
+[2020-05-12 00:44:16,023] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Siri
+[2020-05-12 00:44:16,221] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Penske_Media_Corporation&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:16,761] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Penske_Media_Corporation&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:16,762] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Tempat_pembuangan_akhir
+[2020-05-12 00:44:16,962] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/YouTube
+[2020-05-12 00:44:17,343] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://id.wikipedia.org/w/index.php?title=Templat:Seleb_Apple&amp;action=edit
+[2020-05-12 00:44:18,277] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.businessinsider.com/qa-with-an-apple-store-worker-2016-5
+[2020-05-12 00:44:19,612] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Millard_Drexler&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:20,176] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Millard_Drexler&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:20,176] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/National_Library_of_Australia
+[2020-05-12 00:44:21,522] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://www.truth-out.org/news/item/32208-why-is-apple-lying-about-powering-its-data-centers-with-renewable-energy
+[2020-05-12 00:44:23,606] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://web.archive.org/web/20141224223906/http://www.globallabourrights.org/reports/exhaustion-has-no-limit-at-apple-supplier-in-china
+[2020-05-12 00:44:28,787] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/w/index.php?title=Agilent_Technologies&amp;action=edit&amp;redlink=1
+[2020-05-12 00:44:29,399] ERROR::(P:29811 T:139773745317696)::email_crawler - Exception at url: http://id.wikipedia.org/w/index.php?title=Agilent_Technologies&amp;action=edit&amp;redlink=1
+HTTP Error 404: Not Found
+[2020-05-12 00:44:29,400] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling http://id.wikipedia.org/wiki/Avaya
+[2020-05-12 00:44:29,638] INFO::(P:29811 T:139773745317696)::email_crawler - Crawling https://www.wsj.com/articles/apple-assembles-first-iphones-in-india-1495016276
